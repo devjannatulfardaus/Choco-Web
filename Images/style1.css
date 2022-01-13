@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #313131;
+    font-family:cursive,sans-serif;
+
+}
+/* 
+.au{
+    
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 400px;
+ 
+    
+} */
+.ims{
+    float: right;
+    width: 50%;
+    margin-left: 200px;
+    margin-top: 100px;
+    padding: 10px;
+    border-radius: 22px;
+    box-shadow: 1px 2px 15px black;
+  
+}
+
+.text{
+    font-size: 30px;
+  text-align: left;
+  margin-left: 70px;
+  margin-top: 250px;
+  width: 800px;
+  color: #fff;
+  padding: 15px;
+  
+
+}
